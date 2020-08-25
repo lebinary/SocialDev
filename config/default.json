@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://lebinh190998:Bondog2512@socialdev.hwexu.mongodb.net/<dbname>?retryWrites=true&w=majority",
-  "jwtSecret": "mysecrettoken"
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "8b0dfe9179f2b35e704b",
+  "githubSecret": "66bbdb278ceeabfe0e3cd0ef362e47fc2ebe5538"
 }

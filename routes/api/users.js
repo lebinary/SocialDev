@@ -8,6 +8,7 @@ const router = express.Router();
 const User = require('../../models/User');
 
 //@route POST api/users
+//Create user
 router.post(
   '/',
   [
