@@ -103,7 +103,7 @@ router.post(
 );
 
 //@route GET api/profile
-//Get user's profile
+//Get all user's profile
 router.get('/', async (req, res) => {
   try {
     const profiles = await Profile.find().populate('user', ['name', 'avatar']);
