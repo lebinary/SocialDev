@@ -4,6 +4,7 @@ import { setAlert } from './alert';
 
 // Get current user's profile
 export const getCurrentProfile = () => async (dispatch) => {
+  debugger;
   try {
     const res = await axios.get('/api/profile/me');
     dispatch({
@@ -34,7 +35,7 @@ export const createProfile = (formData, history, edit = false) => async (
       payload: res.data,
     });
 
-    dispatch(setAlert(edit ? 'Profile Updated' : 'Profile Created'));
+    dispatch(setAlert(edit ? 'Profile Updated' : 'Profile Created', 'success'));
 
     //Redirect after submit
     if (!edit) {
