@@ -45,7 +45,6 @@ const EditProfile = ({
   useEffect(() => {
     getCurrentProfile();
 
-    debugger;
     setFormData({
       company: loading || !profile.company ? '' : profile.company,
       website: loading || !profile.website ? '' : profile.website,
