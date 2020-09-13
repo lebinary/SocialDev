@@ -38,8 +38,8 @@ const Profile = ({
           <div className='profile-grid my-1'>
             <ProfileTop profile={profile} />
             <ProfileAbout profile={profile} />
-            <div class='profile-exp bg-white p-2'>
-              <h2 class='text-primary'>Experience</h2>
+            <div className='profile-exp bg-white p-2'>
+              <h2 className='text-primary'>Experience</h2>
               {profile.experience.length > 0 ? (
                 profile.experience.map((experience) => (
                   <ProfileExperience
@@ -51,8 +51,8 @@ const Profile = ({
                 <h4>No Experience Credentials</h4>
               )}
             </div>
-            <div class='profile-edu bg-white p-2'>
-              <h2 class='text-primary'>Education</h2>
+            <div className='profile-edu bg-white p-2'>
+              <h2 className='text-primary'>Education</h2>
               {profile.education.length > 0 ? (
                 profile.education.map((education) => (
                   <ProfileEducation key={education._id} education={education} />

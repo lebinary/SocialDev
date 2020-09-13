@@ -55,6 +55,16 @@ const ProfileTop = ({
   );
 };
 
+ProfileTop.defaultProps = {
+  social: {
+    youtube: '',
+    twitter: '',
+    facebook: '',
+    linkedin: '',
+    instagram: '',
+  },
+};
+
 ProfileTop.propTypes = {
   profile: PropTypes.object.isRequired,
 };

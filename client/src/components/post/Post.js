@@ -21,7 +21,7 @@ const Post = ({ getPost, post: { post, loading }, match }) => {
       </Link>
       <PostItem post={post} showActions={false} />
       <div className='comments'>
-        <div class='bg-primary p'>
+        <div className='bg-primary p'>
           <h3>Comments</h3>
         </div>
         {post.comments.map((comment) => (

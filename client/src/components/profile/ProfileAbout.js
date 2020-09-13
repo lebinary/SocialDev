@@ -14,7 +14,7 @@ const ProfileAbout = ({
         <Fragment>
           <h2 className='text-primary'>{name}</h2>
           <p>{bio}</p>
-          <div class='line'></div>
+          <div className='line'></div>
         </Fragment>
       )}
       <h2 className='text-primary'>Skill Set</h2>
