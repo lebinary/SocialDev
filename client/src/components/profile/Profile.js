@@ -9,7 +9,6 @@ import ProfileAbout from './ProfileAbout';
 import ProfileExperience from './ProfileExperience';
 import ProfileEducation from './ProfileEducation';
 import ProfileGithub from './ProfileGithub';
-import { debug } from 'request';
 
 const Profile = ({
   match,
@@ -19,7 +18,7 @@ const Profile = ({
 }) => {
   useEffect(() => {
     getProfileByID(match.params.id);
-  }, [getProfileByID]);
+  }, [getProfileByID, match.params.id]);
   return (
     <Fragment>
       {profile === null || loading === true ? (
