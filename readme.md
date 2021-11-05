@@ -25,7 +25,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="https://github.com/lebinh190998/SocialDev/tree/master/client/public/logo512.png" alt="Logo" width="80" height="80">
+    <img src="/client/public/logo512.png" alt="Logo" width="80" height="80">
   <h3 align="center">Le Binh's Porfolio</h3>
 
   <p align="center">
@@ -73,7 +73,7 @@
 ## About The Project
 
 <a href="https://secure-badlands-38958.herokuapp.com/?fbclid=IwAR24CeBmvqL_Xj7vfCA54F13aH_MM7BZXCM0PrRk60PmdErdQuCt2baBnPI">
-    <img align="center" src="https://github.com/lebinh190998/SocialDev/tree/master/client/public/cover.PNG" alt="Cover Image" width="800" height="400">
+    <img align="center" src="/client/public/cover.PNG" alt="Cover Image" width="800" height="400">
 </a>
 
 An mini social media application where users can play interact with other developers
@@ -123,19 +123,19 @@ To get a local copy up and running follow these simple example steps.
 ## Usage
 
 Create an account:
-<img src="https://github.com/lebinh190998/SocialDev/tree/master/client/public/signup.PNG" alt="signup" width="600" height="300">
+<img src="/client/public/signup.PNG" alt="signup" width="600" height="300">
 
 Signin:
-<img src="https://github.com/lebinh190998/SocialDev/tree/master/client/public/signup.PNG" alt="signin" width="600" height="300">
+<img src="/client/public/signup.PNG" alt="signin" width="600" height="300">
 
 Set up profile:
-<img src="https://github.com/lebinh190998/SocialDev/tree/master/client/public/setprofile.PNG" alt="setprofile" width="600" height="300">
+<img src="/client/public/setprofile.PNG" alt="setprofile" width="600" height="300">
 
 Dashboard:
-<img src="https://github.com/lebinh190998/SocialDev/tree/master/client/public/dashboard.PNG" alt="dashboard" width="600" height="300">
+<img src="/client/public/dashboard.PNG" alt="dashboard" width="600" height="300">
 
 Developers:
-<img src="https://github.com/lebinh190998/SocialDev/tree/master/client/public/developers.PNG" alt="developers" width="600" height="300">
+<img src="/client/public/developers.PNG" alt="developers" width="600" height="300">
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
