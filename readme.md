@@ -122,20 +122,20 @@ To get a local copy up and running follow these simple example steps.
 
 ## Usage
 
-Create an account:
-<img src="/client/public/signup.PNG" alt="signup" width="600" height="300">
+<p>Create an account:</p>
+<img src="/client/public/signup.PNG" alt="signup" width="800" height="400">
 
-Signin:
-<img src="/client/public/signup.PNG" alt="signin" width="600" height="300">
+<p>Signin:</p>
+<img src="/client/public/signup.PNG" alt="signin" width="800" height="400">
 
-Set up profile:
-<img src="/client/public/setprofile.PNG" alt="setprofile" width="600" height="300">
+<p>Set up profile:</p>
+<img src="/client/public/setprofile.PNG" alt="setprofile" width="800" height="400">
 
-Dashboard:
-<img src="/client/public/dashboard.PNG" alt="dashboard" width="600" height="300">
+<p>Dashboard:</p>
+<img src="/client/public/dashboard.PNG" alt="dashboard" width="800" height="400">
 
-Developers:
-<img src="/client/public/developers.PNG" alt="developers" width="600" height="300">
+<p>Developers:</p>
+<img src="/client/public/developers.PNG" alt="developers" width="800" height="400">
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
