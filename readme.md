@@ -26,7 +26,7 @@
 <br />
 <div align="center">
     <img src="/client/public/logo512.png" alt="Logo" width="80" height="80">
-  <h3 align="center">Le Binh's Porfolio</h3>
+  <h3 align="center">SocialDev</h3>
 
   <p align="center">
     Social Media Application for Developers using MERN stack
